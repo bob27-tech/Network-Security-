@@ -5,7 +5,7 @@
 This project is a comprehensive network security lab simulation created using GNS3 (Graphical Network Simulator 3). The lab is designed for educational purposes to demonstrate network security concepts, firewall configurations, and network segmentation.
 
 ## Author
-**Chandan**
+**Chandan Mariyada**
 
 ## Project Structure
 
@@ -194,5 +194,6 @@ This project is created for educational purposes. Please ensure compliance with 
 - **Current** - Revision 9 with optimized configurations
 
 ---
+
 
 **Note**: This lab environment is designed for educational and testing purposes only. Do not use in production environments without proper security review and hardening.
